@@ -775,17 +775,17 @@ h6{
 .academic .academic-content .ss .column  #group span,
 .academic .academic-content .dip .column  #group span,
 .academic .academic-content .bs .column  #group span{
-    margin-left: 16.3em;
+    margin-left: 15.3em;
 }
 .academic .academic-content .ss .column  #year span,
 .academic .academic-content .dip .column  #year span,
 .academic .academic-content .bs .column  #year span{
-    margin-left: 11.8em;
+    margin-left: 11.6em;
 }
 .academic .academic-content .ss .column  #gpa span,
 .academic .academic-content .dip .column  #gpa span,
 .academic .academic-content .bs .column  #gpa span{
-    margin-left: 16.5em;
+    margin-left: 15.3em;
 }
 .academic .academic-content .diploma{
     display: flex;
